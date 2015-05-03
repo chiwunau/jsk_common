@@ -63,7 +63,7 @@
     uri: https://github.com/tork-a/visualization_rwt.git
     local-name: visualization_rwt
 
-# nao
+# nao, pepper
 - git:
     uri: https://github.com/ros-naoqi/nao_robot.git
     local-name: ros_naoqi/nao_robot
@@ -91,6 +91,9 @@
 - git:
     uri: https://github.com/ros-naoqi/naoqi_bridge.git
     local-name: ros_naoqi/naoqi_bridge
+- git:
+    uri: https://github.com/ros-naoqi/pepper_robot.git
+    local-name: ros_naoqi/pepper_robot
 - git:
     local-name: roboticsgroup/roboticsgroup_gazebo_plugins
     uri: https://github.com/roboticsgroup/roboticsgroup_gazebo_plugins.git
